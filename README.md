@@ -1,0 +1,1 @@
+# Codifica-o-Divis-o-de-Bases-Tratamento-e-Feature-Scaling-para-a-base-de-Credit-Score.
